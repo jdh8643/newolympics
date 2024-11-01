@@ -1,0 +1,72 @@
+/* App.css */
+
+* {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.main-container {
+  width: 1500px;
+  height: 500px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  margin-left: 100px;
+}
+
+h1 {
+  text-align: center;
+  margin: 40px auto 40px;
+}
+
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.list {
+  width: 200px;
+  margin: 20px;
+  text-align: center;
+}
+
+input[type="text"],
+input[type="number"] {
+  width: 70%;
+  padding: 7px;
+  margin: 20px;
+  border-radius: 8px;
+  
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  border-radius: 8px;
+  color: black;
+  cursor: pointer;
+  background-color: rgb(244, 178, 56);
+  margin-left: 10px;
+
+}
+.btn{margin-top: 63px;}
+
+.medel-result {
+  margin-top: 20px;
+  
+  width: 1500px;
+}
+#medel{gap: 50px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;}
+
+.valuelist{
+  
+  width: 100px;
+  height: 50px;
+  text-align: center;
+}
+
