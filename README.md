@@ -13,7 +13,7 @@
 
 
 ### ⚙기술 스택
-https://velog.velcdn.com/images/_seeul/post/13e5670a-5f27-4c5e-9fd4-157cc403f2d6/react-logo.png
+<img src='https://velog.velcdn.com/images/_seeul/post/13e5670a-5f27-4c5e-9fd4-157cc403f2d6/react-logo.png'>
 
 
 ### 📌주요 기능
